@@ -10,8 +10,14 @@ arXiv:1911.02931.
 
 Figure 1: generated manually to illustrate the motifs.
 
-### Figure 2: pairwise transfer entropy (TE) as a function of source and target in-degree.
-![Results](FigureOutputs/Fig2.png)
+### Figure 2: Pairwise transfer entropy as a function of source and target in-degree.
+![Results](figureOutputs/Fig2.png)
 
-### Figure 2: pairwise transfer entropy (TE) as a function of source and target in-degree.
-![Results](FigureOutputs/Fig2.pdf)
+### Figure 3: Average transfer entropy as a function of the rewiring probability in Watts-Strogatz ring networks.
+![Results](figureOutputs/Fig3.png)
+
+### Figure 4: Pairwise transfer entropy as a function of source and target in-degree in random Boolean networks.
+![Results](figureOutputs/Fig4.png)
+
+### Figure 5: Average transfer entropy as a function of the rewiring probability in Watts-Strogatz ring networks with a random Boolean dynamics.
+![Results](figureOutputs/Fig5.png)

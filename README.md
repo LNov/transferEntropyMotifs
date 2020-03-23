@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3724176.svg)](https://doi.org/10.5281/zenodo.3724176)
+
 This repository contains code and data to reproduce all figures from our paper:
 
 Leonardo Novelli, Fatihcan M. Atay, Jürgen Jost, Joseph T. Lizier (2020).
